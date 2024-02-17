@@ -6,8 +6,8 @@
 #include <Deneyap_HareketAlgilama.h>  
 
 // Bağlanılacak WiFi bilgileri
-const char* ssid = "SUPERONLINE_plus";
-const char* password = "Mm127734**";
+const char* ssid = "XXXXXXXXXXXXX";
+const char* password = "XXXXXXXX";
 
 unsigned char Hareket; 
 int hareket;
